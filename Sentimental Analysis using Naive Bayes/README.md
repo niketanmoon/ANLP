@@ -1,0 +1,2 @@
+- This is an attempt to build naive bayes classification method using scratch.
+- The dataset can be downloaded [here](https://drive.google.com/file/d/1Sul-44JB50S-cwertaXTSgOJ-GQ13uaY/view?usp=sharing)
